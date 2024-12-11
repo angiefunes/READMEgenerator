@@ -11,5 +11,8 @@
     "url": "READMEgenerator"
   },
   "author": "angiefunes <angiefunesxo@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^12.2.0"
+  }
 }
