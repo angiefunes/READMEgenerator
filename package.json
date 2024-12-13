@@ -1,6 +1,7 @@
 {
-  "name": "READMEgenerator",
+  "name": "readmegenerator",
   "version": "1.0.0",
+  "type": "module",
   "description": "A professional README generator",
   "main": "index.js",
   "scripts": {
@@ -8,11 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "READMEgenerator"
+    "url": "readmegenerator"
   },
   "author": "angiefunes <angiefunesxo@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "inquirer": "^12.2.0"
-  }
+  },
+  "keywords": []
 }
