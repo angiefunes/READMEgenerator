@@ -2,7 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
 
 ## Description
-test2
+Allows users to easily create a README file.
 
 ## Table of Contents 
 [Installation](#installation)
@@ -18,10 +18,10 @@ test2
 [Questions](#questions)
 
 ## Installation
- 
+npm install inquirer 
 
 ## Usage
-
+runs in terminal 
 
 ## License
 MIT
@@ -30,7 +30,7 @@ MIT
 undefined
 
 ## Tests
-
+test node index.js
 
 ## Questions
-
+angie funes
