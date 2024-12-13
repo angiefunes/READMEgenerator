@@ -4,6 +4,9 @@
 ## Description
 Allows users to easily create a README file.
 
+walk thru video
+https://drive.google.com/file/d/1ve2dhQMddItj8cxYoPSAPYjNBACxdR3h/view
+
 ## Table of Contents 
 [Installation](#installation)
 
