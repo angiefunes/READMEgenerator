@@ -1,31 +1,36 @@
-# README generator
-    
+# readme gen
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
 
-    ## Description
-    Allows users to easily create a README file.
+## Description
+helps create readme
 
-    ## Table of Contents 
-    [Installation](#Installation)
-    [Usage](#Usage)
-    [License](#License)
-    [Contributors](#Contributors)
-    [Tests](#Tests)
-    [Questions](#Questions)
+## Table of Contents 
+[Installation](#Installation)
 
-    ## Installation
-    npm install inquirer 
+[Usage](#Usage)
 
-    ## Usage
-    runs in terminal
+[License](#License)
 
-    ## License
-    MIT
-    ## Contributors
+[Contributors](#Contributors)
 
-    undefined
+[Tests](#Tests)
 
-    ## Tests
-    test node index.js
+[Questions](#Questions)
 
-    ## Questions
-    
+## Installation
+npm install 
+
+## Usage
+runs in terminal
+
+## License
+MIT
+
+## Contributors
+undefined
+
+## Tests
+test
+
+## Questions
+angiefunes
