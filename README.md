@@ -30,10 +30,10 @@ runs in terminal
 MIT
 
 ## Contributors
-undefined
+
 
 ## Tests
 test node index.js
 
 ## Questions
-angie funes
+
