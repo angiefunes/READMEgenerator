@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1ve2dhQMddItj8cxYoPSAPYjNBACxdR3h/view
 npm install inquirer 
 
 ## Usage
-runs in terminal 
+it runs in the terminal 
 
 ## License
 MIT
